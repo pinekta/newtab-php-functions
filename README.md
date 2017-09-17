@@ -1,11 +1,11 @@
 # newtab-php-functions
 
-V‚µ‚¢ƒ^ƒu‚ðŠJ‚­‚ÆPHP‚ÌŠÖ”‚ÌƒŠƒtƒ@ƒŒƒ“ƒXƒy[ƒW‚ðƒ‰ƒ“ƒ_ƒ€‚ÅŠJ‚­ChromeŠg’£‚Å‚·B
+æ–°ã—ã„ã‚¿ãƒ–ã‚’é–‹ãã¨PHPã®é–¢æ•°ã®ãƒªãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ãƒšãƒ¼ã‚¸ã‚’ãƒ©ãƒ³ãƒ€ãƒ ã§é–‹ãChromeæ‹¡å¼µã§ã™ã€‚
 
-## ƒCƒ“ƒXƒg[ƒ‹
+## ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-ƒXƒgƒA‚É”zM‚Í‚µ‚Ä‚¨‚è‚Ü‚¹‚ñ‚Ì‚ÅAƒ[ƒJƒ‹‚Éclone‚µ‚½‚à‚Ì‚ðChrome‚ÌŠg’£‹@”\‚ÌÝ’èƒy[ƒW‚©‚ç
-“Ç‚Ýž‚ñ‚ÅŽg—p‚­‚¾‚³‚¢B
+ã‚¹ãƒˆã‚¢ã«é…ä¿¡ã¯ã—ã¦ãŠã‚Šã¾ã›ã‚“ã®ã§ã€ãƒ­ãƒ¼ã‚«ãƒ«ã«cloneã—ãŸã‚‚ã®ã‚’Chromeã®æ‹¡å¼µæ©Ÿèƒ½ã®è¨­å®šãƒšãƒ¼ã‚¸ã‹ã‚‰
+èª­ã¿è¾¼ã‚“ã§ä½¿ç”¨ãã ã•ã„ã€‚
 
 ## Copyright
 
